@@ -23,7 +23,6 @@ public class Singlet {
         System.out.println(Singlet.getInstance1());
         System.out.println(Singlet.singlet);
         System.out.println(Singlet.singlet1);
-        System.out.println("GITHUB TEST");
     }
 
 
